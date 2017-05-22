@@ -5,4 +5,5 @@ require "./crystalg/graph/searching/*"
 require "./crystalg/strings/*"
 
 module Crystalg
+#
 end
